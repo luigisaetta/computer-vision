@@ -8,3 +8,8 @@ In this repository I'll store all the code I have developed in my explorations i
 * draw a BB rectangle on a image
 
 ## Examples
+
+## Wiki
+
+You can find useful information in the Wiki
+
