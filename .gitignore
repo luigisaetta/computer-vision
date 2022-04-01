@@ -1,4 +1,5 @@
 flickr_logos_27_dataset_training_set_annotation.txt
 flickr_logos_27_dataset_images
 *.tgz
+*.gz
 
