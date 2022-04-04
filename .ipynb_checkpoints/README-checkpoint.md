@@ -10,6 +10,9 @@ In this repository I'll store all the code I have developed in my explorations i
 ## Examples
 
 ## Wiki
-
 You can find useful information in the Wiki
+
+## Books
+* Modern Computer Vision with PyTorch
+
 
